@@ -149,7 +149,9 @@ document.getElementById("frmEditarIntegrante").addEventListener("submit", async 
     }
     else{
         alert("Error al actualizar");
-        
+
     }
+
+    //:)
 
 })
